@@ -1,5 +1,6 @@
 # sellTokenSwap Interface
 
+node -v v16.4.0
 
 - Website: [selltoken.org](https://selltoken.org)
 - Interface: [app.selltoken.org](https://app.selltoken.org)
@@ -7,7 +8,6 @@
 - Email: [info@selltoken.org](info@selltoken.org)
 - Discord: [SellToken](https://discord.gg/hnGd6VTd)
 - Whitepaper: [Link](https://selltoken.org/Whitepaper.pdf)
-
 
 ## Development
 
@@ -29,18 +29,18 @@ To have the interface default to a different network when a wallet is not connec
 
 1. Make a copy of `.env` named `.env.local`
 2. Change `REACT_APP_NETWORK_ID` to `"{YOUR_NETWORK_ID}"`
-3. Change `REACT_APP_NETWORK_URL` to e.g. `"https://{YOUR_NETWORK_ID}.infura.io/v3/{YOUR_INFURA_KEY}"` 
+3. Change `REACT_APP_NETWORK_URL` to e.g. `"https://{YOUR_NETWORK_ID}.infura.io/v3/{YOUR_INFURA_KEY}"`
 
-Note that the interface only works on testnets where both 
+Note that the interface only works on testnets where both
 
 The interface will not work on other networks.
 
 ## Contributions
 
-**Please open all pull requests against the `master` branch.** 
+**Please open all pull requests against the `master` branch.**
 CI checks will run against all PRs.
 
 ## Accessing SellToken Interface V1
 
 The SellToken Interface supports swapping against, and migrating or removing liquidity from SellToken V1. However,
-if you would like to use SellToken V1, the Uniswap V1 interface for mainnet and testnets is accessible via IPFS gateways 
+if you would like to use SellToken V1, the Uniswap V1 interface for mainnet and testnets is accessible via IPFS gateways

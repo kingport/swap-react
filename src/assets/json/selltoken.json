@@ -1,0 +1,80 @@
+{
+  "name": "SellTokenSwap",
+  "timestamp": "2023-03-25T15:37:59.457102807Z",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://image.selltoken.org/favicon.png",
+  "keywords": [
+    "SellTokenSwap"
+  ],
+  "tokens": [
+    {
+      "name": "TRDT",
+      "address": "0x61f834516504fC02b3cd80D41722df08fD030141",
+      "symbol": "TRDT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://image.selltoken.org/0x61f834516504fC02b3cd80D41722df08fD030141.png"
+    },
+    {
+      "name": "SELLC",
+      "address": "0xa645995e9801F2ca6e2361eDF4c2A138362BADe4",
+      "symbol": "SELLC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://image.selltoken.org/0xa645995e9801F2ca6e2361eDF4c2A138362BADe4.png"
+    },{
+      "name": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://image.selltoken.org/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "name": "BTC",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "symbol": "BTC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://image.selltoken.org/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+    },
+    {
+      "name": "ETH",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://image.selltoken.org/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
+      "name": "LTC",
+      "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+      "symbol": "LTC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://image.selltoken.org/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png"
+    },
+    {
+      "name": "DOGE",
+      "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+      "symbol": "DOGE",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI": "https://image.selltoken.org/0xbA2aE424d960c26247Dd6c32edC70B295c744C43.png"
+    },
+    {
+      "name": "SHIB",
+      "address": "0xb1547683DA678f2e1F003A780143EC10Af8a832B",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://image.selltoken.org/0xb1547683DA678f2e1F003A780143EC10Af8a832B.png"
+    }
+  ]
+}
+
